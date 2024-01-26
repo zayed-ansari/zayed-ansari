@@ -1,7 +1,7 @@
-[![MasterHead](https://imgs.search.brave.com/3VIAn55ZuRaUpiKM1302e-wqcyqXvASsW5P71rdLm-M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXM2LmFscGhhY29k/ZXJzLmNvbS8xMjUv/MTI1NzQyOC5qcGc)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://zayed-ansari.io)
 <h1 align="center">Hi 👋, I'm Zayed Ansari</h1>
 <h3 align="center">A passionate machine learning and frontend developer from India</h3>
-<img align="right" height="400px" width="auto" src="https://imgs.search.brave.com/o1E3I-mF8t40o--aAJ_zM0KB5pp8YCb5PL-_kGeQfzs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdhL2Fj/L2NjLzdhYWNjYzZh/YzFiOTQ2NTg3MGE3/ZGNiYzcxOTRhMTJi/LmpwZw">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayed-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="zayed-ansari" /> </p>
 
