@@ -1,17 +1,22 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://zayed-ansari.io)
 <h1 align="center">Hi 👋, I'm Zayed Ansari</h1>
-<h3 align="center">A passionate machine learning and frontend developer from India</h3>
-
+<h3 align="center">A passionate machine learning and frontend developer. I'm currently exploring AI, Data Science, Machine Learning & Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayed-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="zayed-ansari" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/zayedansari2004" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/zayedansari2004?logo=twitter&style=for-the-badge" alt="https://twitter.com/zayedansari2004" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zayedansari2004" target="blank"><img src="https://img.shields.io/twitter/follow/zayedansari2004?logo=twitter&style=for-the-badge" alt="zayedansari2004" /></a> </p>
+
+- 🌱 I’m currently learning **data science and machine learning**
+
+- 💬 Ask me about **python, javascript, numpy, pandas, tensorflow**
+
+- 📫 How to reach me **ansarizayed04@gmail.com**
 
 - ⚡ Fun fact **I like to play video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/zayedansari2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/zayedansari2004" height="30" width="40" /></a>
+<a href="https://twitter.com/zayedansari2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zayedansari2004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zayed-ansari-805a8525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zayed-ansari-805a8525a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22472803/zayed-ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22472803/zayed-ansari" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/zayedansari2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zayedansari2005" height="30" width="40" /></a>
