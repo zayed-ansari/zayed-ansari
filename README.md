@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://zayed-ansari.io)
 <h1 align="center">Hi 👋, I'm Zayed Ansari</h1>
-<h3 align="center">A passionate frontend developer. I'm currently learning Machine Learning.</h3>
+<h3 align="center">A passionate ML student. I'm currently studying Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayed-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="zayed-ansari" /> </p>
 
