@@ -26,7 +26,6 @@ zayed = {
     "currently_building": "Multi-step AI agents with LangGraph",
     "day_job":            "Data Engineering @ Helo.ai (PySpark, PostgreSQL, Docker)",
     "interests":          ["RAG Systems", "LLM Fine-tuning", "Edge AI", "Agentic AI"],
-    "next_learning":      ["MLflow", "Weaviate", "LangGraph"],
     "based_in":           "Mumbai, India 🇮🇳",
 }
 ```
