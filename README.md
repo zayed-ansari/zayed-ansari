@@ -86,7 +86,7 @@ zayed = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-06060a?style=for-the-badge&logo=firefox&logoColor=B50798)](https://zayed-ansari.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06060a?style=for-the-badge&logo=firefox&logoColor=B50798)](https://zayed-ansari.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zayed-ansari-805a8525a)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zayedansari2004)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/zayed2004)
